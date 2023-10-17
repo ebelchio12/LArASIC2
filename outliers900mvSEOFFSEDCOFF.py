@@ -1,0 +1,9 @@
+skipMe900mvSEOFFSEDCOFF=[
+'.\ewertonWinSCPdataRemoveOldChips\RT\Board_DUAL_DUT_FEChip_P5B_001-00369_RT\Power_measurement\Power_FEChip_P5B_001-00369.csv',
+'.\ewertonWinSCPdataRemoveOldChips\RT\Board_DUAL_DUT_FEChip_P5B_001-00610_RT\Power_measurement\Power_FEChip_P5B_001-00610.csv',
+'.\ewertonWinSCPdataRemoveOldChips\RT\Board_DUAL_DUT_FEChip_P5B_001-00643_RT\Power_measurement\Power_FEChip_P5B_001-00643.csv',
+'.\ewertonWinSCPdataRemoveOldChips\RT\Board_DUAL_DUT_FEChip_P5B_001-00682_RT\Power_measurement\Power_FEChip_P5B_001-00682.csv',
+'.\ewertonWinSCPdataRemoveOldChips\RT\Board_DUAL_DUT_FEChip_P5B_001-00852_RT\Power_measurement\Power_FEChip_P5B_001-00852.csv',
+'.\ewertonWinSCPdataRemoveOldChips\RT\Board_DUAL_DUT_FEChip_P5B_001-00897_RT\Power_measurement\Power_FEChip_P5B_001-00897.csv',
+'.\ewertonWinSCPdataRemoveOldChips\RT\Board_DUAL_DUT_FEChip_P5B_001-00914_RT\Power_measurement\Power_FEChip_P5B_001-00914.csv'
+]
